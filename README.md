@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div id="header">
-  <img src="https://sun9-80.userapi.com/impg/RFFaph0ZyHyiYyH-B5z8AVG-Pgj5Cvavz9JF4A/U4q0q9ZeA5Y.jpg?size=1920x400&quality=95&sign=479693a33247454d34c55ea48b458ee6&type=album" width="1500">
-        <p>Hello! My name is Artyom. I'm 17 years old. I am a Python web programmer. I am using Django framework. Started programming in 2021. Prior to that, at school, he was fond of creating templates and designing in HTML and CSS. I started programming in python because I like to write the backend of the site, I'm interested in their architecture. On my github you can evaluate the quality of my code and see my projects. I try to put my soul into them and take criticism of my creation for granted.</p>
-  <hr>
- <div id="header" align="center">
-           <img src="https://media4.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif?cid=ecf05e472uuw04fb9nqr429evy2mvoqprq6c5i2ed59cynn7&rid=giphy.gif&ct=g" width="200"> 
-  </div>    
-   <h3> my stack: </h3>
-      <img src="https://skr.sh/i/260622/by8dTgaT.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2027-06-2022%2000:08:30.jpg" width="300">
-      <img src="https://postgrespro.ru/media/2016/04/04/postgresql-logo11.png" width="200">
-      <img src="https://skr.sh/i/260622/s3vb0KIx.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2027-06-2022%2000:13:28.jpg" width="180">
-</center>
-</div>
+  <img src="https://sun9-70.userapi.com/impg/ZeCc9C-eAh2ukIcu1A9MuA0M4T-lG52_Rqdq6A/fgxZqf2cj3k.jpg?size=1920x400&quality=95&sign=c36e2171a9f54517a4c3344ae0632dd6&type=album" >
+        <p>Hello! My name is Artyom. I'm 17 years old. I am a Python web programmer. I am using Django framework. Started programming in 2021. Prior to that, at school, he was fond of creating templates and designing in HTML and CSS. I started programming in python because I like to write the backend of the site, I'm interested in their architecture. On my github you can evaluate the quality of my code and see my projects. I try to put my soul into them and take criticism of my creation for granted.</p> 
+   <img src="https://sun9-62.userapi.com/impg/Ljp3r457YJFdwvbOwhZE666SgFwQR1cFNB_mfg/t6TUJITA3Ro.jpg?size=1920x131&quality=95&sign=433b97c8e60a0f41f7e0e00137e10d4b&type=album">
+      <img src="https://sun9-80.userapi.com/impg/Mblm78OyKT7gdwCLMz0qCRYJ_8Rwa9V0ldVl9g/MYF-gsN3_Ck.jpg?size=1920x400&quality=95&sign=bfcc08f662f23fbab0658448cfeb05d1&type=album" >
+  <br>
+  <br>
+  <p>I am self-taught, learning Python and its frameworks through video tutorials and online documentation. I plan to learn JS in the future. For a complete understanding of the site architecture. I started learning Python because of its simplicity, in the past I had attempts to learn JS, but because of my studies, I did not have enough time for this. I am very glad that now I have time and I can do what I love. But I still decided to choose exactly - Python. I like to write in this language. If you are interested in me, please write me by telegram or email</p>
+<img src="https://sun9-36.userapi.com/impg/uSe1YsJ54-VcuL8fMft_3bQZpzuKSFzxvzXdlg/HTsMmoOrrEw.jpg?size=1920x400&quality=95&sign=ad5a40178c54bc6ce0065de89b3e9ba7&type=album">
+
