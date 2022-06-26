@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <center>
   <h1> Hello world! </h1>
 </center>
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47wd40zfostkyqjwb0g08hhte6ljbc5698j3im67n2&rid=giphy.gif&ct=g" width="1500">
+  <img src="https://sun9-80.userapi.com/impg/RFFaph0ZyHyiYyH-B5z8AVG-Pgj5Cvavz9JF4A/U4q0q9ZeA5Y.jpg?size=1920x400&quality=95&sign=479693a33247454d34c55ea48b458ee6&type=album" width="1500">
     <center>
       <br>
       <h3> my stack: </h3>
