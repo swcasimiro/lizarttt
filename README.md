@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world!
 
 <!--
 **lizarttt/lizarttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47rck02lwc7p4mnlfrw1eod56vqfab8njiocwdbaw6&rid=giphy.gif&ct=g" width="200"/>
+</div>
