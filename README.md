@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div id="header">
   <img src="https://sun9-80.userapi.com/impg/RFFaph0ZyHyiYyH-B5z8AVG-Pgj5Cvavz9JF4A/U4q0q9ZeA5Y.jpg?size=1920x400&quality=95&sign=479693a33247454d34c55ea48b458ee6&type=album" width="1500">
         <p>Hello! My name is Artyom. I'm 17 years old. I am a Python web programmer. I am using Django framework. Started programming in 2021. Prior to that, at school, he was fond of creating templates and designing in HTML and CSS. I started programming in python because I like to write the backend of the site, I'm interested in their architecture. On my github you can evaluate the quality of my code and see my projects. I try to put my soul into them and take criticism of my creation for granted.</p>
+  <hr>
  <div id="header" align="center">
            <img src="https://media4.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif?cid=ecf05e472uuw04fb9nqr429evy2mvoqprq6c5i2ed59cynn7&rid=giphy.gif&ct=g" width="200"> 
   </div>    
