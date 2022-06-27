@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   <p>I am self-taught, learning Python and its frameworks through video tutorials and online documentation. I plan to learn JS in the future. For a complete understanding of the site architecture. I started learning Python because of its simplicity, in the past I had attempts to learn JS, but because of my studies, I did not have enough time for this. I am very glad that now I have time and I can do what I love. But I still decided to choose exactly - Python. I like to write in this language. If you are interested in me, please write me by telegram or email</p>
 <img src="https://sun9-51.userapi.com/impg/AfUJ8SJqNQsmL6hpAwhvaBB_l7aBR4x8ynLjLA/QqB4l1OWlhY.jpg?size=1920x400&quality=95&sign=50792a4958f298a452bb509c5319807f&type=album">
 
+
+
