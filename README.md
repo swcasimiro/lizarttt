@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header">
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <img src="https://sun9-70.userapi.com/impg/ZeCc9C-eAh2ukIcu1A9MuA0M4T-lG52_Rqdq6A/fgxZqf2cj3k.jpg?size=1920x400&quality=95&sign=c36e2171a9f54517a4c3344ae0632dd6&type=album" >
         <p>Hello! My name is Artyom. I'm 17 years old. I am a Python web programmer. I am using Django framework. Started programming in 2021. Prior to that, at school, he was fond of creating templates and designing in HTML and CSS. I started programming in python because I like to write the backend of the site, I'm interested in their architecture. On my github you can evaluate the quality of my code and see my projects. I try to put my soul into them and take criticism of my creation for granted.</p> 
    <img src="https://sun9-62.userapi.com/impg/Ljp3r457YJFdwvbOwhZE666SgFwQR1cFNB_mfg/t6TUJITA3Ro.jpg?size=1920x131&quality=95&sign=433b97c8e60a0f41f7e0e00137e10d4b&type=album">
