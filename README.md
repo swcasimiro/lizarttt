@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://sun9-70.userapi.com/impg/ZeCc9C-eAh2ukIcu1A9MuA0M4T-lG52_Rqdq6A/fgxZqf2cj3k.jpg?size=1920x400&quality=95&sign=c36e2171a9f54517a4c3344ae0632dd6&type=album">
    <img src="https://sun9-62.userapi.com/impg/Ljp3r457YJFdwvbOwhZE666SgFwQR1cFNB_mfg/t6TUJITA3Ro.jpg?size=1920x131&quality=95&sign=433b97c8e60a0f41f7e0e00137e10d4b&type=album">
       <img src="https://sun9-24.userapi.com/impg/asfN54MenLC7Jo_xODxAnILSDMEGj5DsWzmmpA/l_5HYNbXFoc.jpg?size=900x780&quality=95&sign=592694283cb25e86c5fadabaf72bbfd8&type=album" >
+      <img src='https://sun9-67.userapi.com/impg/jXLUV451mRnYdl30VKm-HooenquFHi51btciLw/E93U2sekZlo.jpg?size=700x139&quality=95&sign=3b8ad402ea5bafaa03cacb15ce436282&type=album' >
 <img src="https://sun9-51.userapi.com/impg/AfUJ8SJqNQsmL6hpAwhvaBB_l7aBR4x8ynLjLA/QqB4l1OWlhY.jpg?size=1920x400&quality=95&sign=50792a4958f298a452bb509c5319807f&type=album">
 
 
